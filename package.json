@@ -1,0 +1,16 @@
+{
+  "name": "sock-it-to-me",
+  "description": "a very simple demonstration of how to use socket.io",
+  "version": "1.0.0",
+  "author": "Mickey Yawn",
+  "contributors": [ 
+    { "name": "Mickey Yawn", "email": "mickey.yawn@turner.com" }
+  ],
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest",
+    "mongodb": "latest",
+    "socket.io":"latest"
+  },
+  "engines": { "node": ">= 0.4.1 <= 1.0.0" }
+}
